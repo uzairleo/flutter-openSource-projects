@@ -10,6 +10,8 @@ This section has projects that have just a basic UI and simple logic with locali
 
 ## Level-2: Intermediate
 - [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
+- [Flutter-SplashScreen](https://github.com/uzairleo/flutter_splashscreen_tutorial)
+
 ## Level-3: Advance
 ## Level-4: Very Complex
 
