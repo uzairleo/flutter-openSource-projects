@@ -24,6 +24,7 @@ This section has projects with an intermediate level UI and Logic or basic imple
 - [Flutter homeWifi](https://github.com/uzairleo/uzairleo-homeWifi)
 - [Flutter Animated Login](https://github.com/uzairleo/flutter_Animated_Login)
 - [Flutter Simple Calculator App](https://github.com/haroonkhan9426/Calculator-App)
+- [flutter-Firebase-AnotherSimpleApproach](https://github.com/uzairleo/flutter_firebase_authentication)
 
 
 ## Level-3: Advance
